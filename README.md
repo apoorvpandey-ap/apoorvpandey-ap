@@ -16,16 +16,17 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Apoorv Pandey]IT Support/Technical Trainer
+Project Description
+VirtualDoxx develops database management systems integrated with RFID and barcode technologies to track items and people. VirtualDoxx develops robust content management solutions leveraging SharePoint. VirtualDoxx provides end-to-end physical and electronic document management for 'best practice' records management, and end-to-end tracking and chain-of custody for a broad range of industries and applications. Bank Users can keep track of loans and mortgages efficiently.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@apoorvpandey](https://https://virtualdoxxindia.com/Our_Team.html);
+- 📝 [Resume](https://docs.google.com/document/d/1WLm-wYkzmBtM48ZXMv1zZ8hvlASG7VNoYfNOVS1YrYA/edit?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -53,7 +54,7 @@ Markdown     17 mins         ▒░░░░░░░░░░░░░░░░
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/de" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
@@ -66,7 +67,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github.com/apoorvpandey-ap" alt="apoorvpandey-ap" />
 
 
 
