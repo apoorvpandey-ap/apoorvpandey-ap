@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://www.google.com/search?q=youtube+logo&safe=active&rlz=1C1CHBF_enIN769IN769&sxsrf=ALeKk00xqFi4ULFenzGIEvBMYg7w9ctdVg:1617697960342&tbm=isch&source=iu&ictx=1&fir=S_3qWD2dL8Sy_M%252CWPGE3i0WPJ_MpM%252C_&vet=1&usg=AI4_-kQCO2cdbNEPJTH86vFUbX3sEvGzLA&sa=X&ved=2ahUKEwjGqp7CmunvAhVmxzgGHSfkDm0Q9QF6BAgNEAE&biw=884&bih=1009#imgrc=S_3qWD2dL8Sy_M" />
+<a href="https://www.youtube.com/channel/UCDOiThc91N7OwBLCscAeBzg">
+  <img align="left" alt="Apoorv's | Youtube" width="22px" src="![image1](image/1.PNG)" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://virtualdoxxindia.com/">
+  <img align="left" alt="Apoorv Pandey  | Virtualdoxx" width="22px" src="![image2](image/2.PNG)" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
