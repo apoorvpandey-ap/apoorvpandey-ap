@@ -28,7 +28,7 @@ VirtualDoxx develops database management systems integrated with RFID and barcod
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@apoorvpandey](https://virtualdoxxindia.com/Our_Team.html);
+- 📫 How to reach me: [@apoorvpandey](https://virtualdoxxindia.com/Contact.html);
 - 📝 [Resume](https://docs.google.com/document/d/1WLm-wYkzmBtM48ZXMv1zZ8hvlASG7VNoYfNOVS1YrYA/edit?usp=sharing)
 
 **Languages and Tools:**  
