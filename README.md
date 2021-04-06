@@ -3,7 +3,7 @@
   <img align="left" alt="Apoorv's | Youtube" width="22px" src="![image1](image/1.PNG)" />
 </a>
 <a href="https://virtualdoxxindia.com/">
-  <img align="left" alt="Apoorv Pandey  | Virtualdoxx" width="22px" src="![image2](image/2.PNG)" />
+  <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="![image2](image/2.PNG)" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
