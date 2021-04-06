@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://hits.seeyoufarm.com">
-  <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapoorvpandey-ap%2Fapoorvpandey-ap%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
+<a href="https://www.youtube.com/channel/UCDOiThc91N7OwBLCscAeBzg">
+  <img align="left" alt="Apoorv's | Youtube" width="22px" src="![image1](image/1.PNG)" />
 </a>
 <a href="https://virtualdoxxindia.com/">
   <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="https://user-images.githubusercontent.com/66588814/113699838-b900f880-96f3-11eb-83cb-cd7bb1266df3.png" />
@@ -12,8 +14,8 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
- <a href='https://www.free-counters.org/'>www.free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ab0a2ca9db993649a3be9b5154e96f66e93f57b2'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/814473/t/2"></script>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapoorvpandey-ap%2Fapoorvpandey-ap%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+</a>
 
 <br />
 
