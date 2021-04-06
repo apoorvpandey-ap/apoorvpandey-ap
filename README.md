@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://virtualdoxxindia.com/">
-  <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapoorvpandey-ap%2Fapoorvpandey-ap%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>" />
+<a href="https://hits.seeyoufarm.com">
+  <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapoorvpandey-ap%2Fapoorvpandey-ap%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </a>
 <a href="https://virtualdoxxindia.com/">
   <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="https://user-images.githubusercontent.com/66588814/113699838-b900f880-96f3-11eb-83cb-cd7bb1266df3.png" />
