@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://www.google.com/search?q=youtube+logo&safe=active&rlz=1C1CHBF_enIN769IN769&sxsrf=ALeKk00xqFi4ULFenzGIEvBMYg7w9ctdVg:1617697960342&tbm=isch&source=iu&ictx=1&fir=S_3qWD2dL8Sy_M%252CWPGE3i0WPJ_MpM%252C_&vet=1&usg=AI4_-kQCO2cdbNEPJTH86vFUbX3sEvGzLA&sa=X&ved=2ahUKEwjGqp7CmunvAhVmxzgGHSfkDm0Q9QF6BAgNEAE&biw=884&bih=1009#imgrc=S_3qWD2dL8Sy_M" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -44,8 +44,8 @@ VirtualDoxx develops database management systems integrated with RFID and barcod
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 40 mins   ███████████▓░░░░░░░░░░░░░   46.47 % 
-JSX          5 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Linux        8 hrs 40 mins   ███████████▓░░░░░░░░░░░░░   46.47 % 
+Angular      5 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 % 
 SCSS         4 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.45 % 
 Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
@@ -58,16 +58,16 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,798 Karma Points           
+🏆  1500 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 632 tasks so far           
+✅  Completed 23 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apoorvpadey-ap&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apoorvpandey-ap&show_icons=true&theme=gotham" alt="apoorvpandey" />
 
 
 
