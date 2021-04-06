@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.youtube.com/channel/UCDOiThc91N7OwBLCscAeBzg">
-  <img align="left" alt="Apoorv's | Youtube" width="22px" src="![image1](image/1.PNG)" />
+  <img align="left" alt="Apoorv's | Youtube" width="22px" src=(https://user-images.githubusercontent.com/66588814/113699593-69223180-96f3-11eb-8cb5-3d051e6f24eb.png)
+![Uploading 1.png…]()
+" />
 </a>
 <a href="https://virtualdoxxindia.com/">
   <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="![image2](image/2.PNG)" />
