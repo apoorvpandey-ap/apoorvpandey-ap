@@ -12,12 +12,13 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+ <a href='https://www.free-counters.org/'>www.free-counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=ab0a2ca9db993649a3be9b5154e96f66e93f57b2'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/814473/t/2"></script>
 
 <br />
 
 Hi, I'm [Apoorv Pandey]IT Support/Technical Trainer
-Project Description
+
 VirtualDoxx develops database management systems integrated with RFID and barcode technologies to track items and people. VirtualDoxx develops robust content management solutions leveraging SharePoint. VirtualDoxx provides end-to-end physical and electronic document management for 'best practice' records management, and end-to-end tracking and chain-of custody for a broad range of industries and applications. Bank Users can keep track of loans and mortgages efficiently.
 
 
