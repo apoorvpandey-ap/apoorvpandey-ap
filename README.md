@@ -7,8 +7,8 @@
 <a href="https://virtualdoxxindia.com/">
   <img align="left" alt="Apoorv Pandey Virtualdoxx" width="22px" src="https://user-images.githubusercontent.com/66588814/113699838-b900f880-96f3-11eb-83cb-cd7bb1266df3.png" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.google.co.in/maps/contrib/116013285839053406795/contribute/@25.4094817,84.790058,9z/data=!3m1!4b1!4m3!8m2!3m1!1e1">
+  <img align="left" alt="Apoorv Local Guid" width="22px" src="https://user-images.githubusercontent.com/66588814/113750061-f1bac500-9727-11eb-93db-eb427d617b9c.png" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
