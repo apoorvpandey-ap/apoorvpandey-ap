@@ -10,9 +10,7 @@
 <a href="https://www.google.co.in/maps/contrib/116013285839053406795/contribute/@25.4094817,84.790058,9z/data=!3m1!4b1!4m3!8m2!3m1!1e1">
   <img align="left" alt="Apoorv Local Guid" width="22px" src="https://user-images.githubusercontent.com/66588814/113750061-f1bac500-9727-11eb-93db-eb427d617b9c.png" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapoorvpandey-ap%2Fapoorvpandey-ap%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </a>
