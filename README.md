@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm Apoorv Pandey IT Support/Technical Trainer
+Hi, I'm Apoorv Pandey DevOps Engineer
 
 VirtualDoxx develops database management systems integrated with RFID and barcode technologies to track items and people. VirtualDoxx develops robust content management solutions leveraging SharePoint. VirtualDoxx provides end-to-end physical and electronic document management for 'best practice' records management, and end-to-end tracking and chain-of custody for a broad range of industries and applications. Bank Users can keep track of loans and mortgages efficiently.
 
@@ -27,7 +27,7 @@ VirtualDoxx develops database management systems integrated with RFID and barcod
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@apoorvpandey](https://virtualdoxxindia.com/Contact.html);
-- 📝 [Resume](https://drive.google.com/file/d/17VxPlEF6RRPhxsXxT58Acx8irgnfimZh/view?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/1iM6vLR5E_VOqYGgw6R7qidy8xhcysXfY/edit?usp=sharing&ouid=116013285839053406795&rtpof=true&sd=true)
 
 **Languages and Tools:**  
 
