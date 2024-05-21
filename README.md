@@ -17,10 +17,6 @@
 
 <br />
 
-Hi, I'm Apoorv Pandey DevOps Engineer
-
-VirtualDoxx develops database management systems integrated with RFID and barcode technologies to track items and people. VirtualDoxx develops robust content management solutions leveraging SharePoint. VirtualDoxx provides end-to-end physical and electronic document management for 'best practice' records management, and end-to-end tracking and chain-of custody for a broad range of industries and applications. Bank Users can keep track of loans and mortgages efficiently.
-
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
